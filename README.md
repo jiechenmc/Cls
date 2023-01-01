@@ -13,6 +13,6 @@ go build
 
 ## Examples
 
-![CSE215 Example](cse215.jpg)
-
 ![AMS301 Example](ams301.jpg)
+
+![CSE215 Example](cse215.jpg)
